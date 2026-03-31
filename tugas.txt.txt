@@ -1,1 +1,2 @@
 1. Setup Database
+2. Konfigurasi IP Address
