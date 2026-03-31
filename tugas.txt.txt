@@ -1,2 +1,4 @@
 1. Setup Database
 2. Konfigurasi IP Address
+3. Testing Koneksi
+
