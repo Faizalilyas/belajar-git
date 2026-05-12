@@ -6,3 +6,4 @@ tambah keterangan
 
 2. commit dari si A
 si A merubah dengan menambahi keterangan
+dan juga ada sedikit lagi
