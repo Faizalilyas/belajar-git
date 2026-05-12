@@ -4,4 +4,8 @@ penambahan rencana
 tambah keterangan
 1. buat branch baru 
 
-saya menambahi sesuatu dari si B
+
+2. commit dari si A
+si A merubah dengan menambahi keterangan
+dan juga ada sedikit lagi
+
