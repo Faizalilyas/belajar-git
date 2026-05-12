@@ -3,3 +3,5 @@ rencana pembuatan branch
 penambahan rencana 
 tambah keterangan
 1. buat branch baru 
+
+saya menambahi sesuatu dari si B
